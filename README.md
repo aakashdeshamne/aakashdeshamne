@@ -58,7 +58,7 @@
 <br>
 
 <p style="margin-top: 20px; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashdeshamne&show_icons=true&locale=en&layout=compact" alt="aakashdeshamne" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashdeshamne&show_icons=true&locale=en&layout=compact" alt="aakashdeshamne" style="width: 60%" />
 </p>
 
 <br clear="both">
