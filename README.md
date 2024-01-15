@@ -57,7 +57,10 @@
 <br clear="both">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashdeshamne&show_icons=true&locale=en&layout=compact" alt="aakashdeshamne" /></p>
+<p style="margin-top: 20px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashdeshamne&show_icons=true&locale=en&layout=compact" alt="aakashdeshamne" />
+</p>
+<br clear="both">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashdeshamne&show_icons=true&locale=en" alt="aakashdeshamne" /></p>
 
