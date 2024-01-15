@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://steamcommunity.com/economy/profilebackground/items/383690/ba42e43828c826da1099caff358423b555f47dbc.jpg" alt="Banner Image" style="max-height: 60%; width:"700";" />
+  <img src="https://steamcommunity.com/economy/profilebackground/items/383690/ba42e43828c826da1099caff358423b555f47dbc.jpg" alt="Banner Image" style="max-height:"400"; width:"700";" />
 </p>
 
 
