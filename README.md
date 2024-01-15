@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://steamcommunity.com/economy/profilebackground/items/383690/ba42e43828c826da1099caff358423b555f47dbc.jpg" alt="Banner Image" style="width: 80%; max-height: 60%;" />
+  <img src="https://steamcommunity.com/economy/profilebackground/items/383690/ba42e43828c826da1099caff358423b555f47dbc.jpg" alt="Banner Image" style="max-height: 60%; width: 80%;" />
 </p>
 
 
@@ -53,10 +53,10 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/Aakash" style="margin-right: 10px; margin-left: 10px;">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="300" alt="Aakash" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="Aakash" />
   </a>
   <a href="https://ko-fi.com/Aakash" style="margin-left: 10px;">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="70" width="300" alt="Aakash" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="Aakash" />
   </a>
 </p>
 
