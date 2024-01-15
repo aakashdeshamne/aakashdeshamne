@@ -58,17 +58,17 @@
 <br>
 
 <p style="margin-top: 20px; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashdeshamne&show_icons=true&locale=en&layout=compact" alt="aakashdeshamne" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashdeshamne&show_icons=true&locale=en&layout=compact" alt="aakashdeshamne" style="width: 100%" />
 </p>
 
 <br clear="both">
 
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashdeshamne&show_icons=true&locale=en" alt="aakashdeshamne" style="width: 100%" />
+<p style="text-align: center; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashdeshamne&show_icons=true&locale=en" alt="aakashdeshamne" style="width: 80%" />
 </p>
 
-<p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdeshamne&" alt="aakashdeshamne" style="width: 100%" />
+<p style="text-align: center; margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdeshamne&" alt="aakashdeshamne" style="width: 80%" />
 </p>
 
 
