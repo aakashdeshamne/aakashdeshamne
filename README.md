@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Deshmane</h1>
 <h3 align="center">A passionate Fullstack Developer with Experience in Cloud And Devops!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdeshamne" alt="aakashdeshamne" /></a> </p>
-
 - 🔭 I’m currently working on [Resume Builder](https://github.com/aakashdeshamne/Resume-Builder-Backend.git)
 
 - 🌱 I’m currently learning **React Native , Flutter**
@@ -16,6 +14,8 @@
 - 📫 How to reach me **deshmaneakash100@gmailcom**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1fseuXgCCgnXJED88Z6VcamM-3e6JKuP8](https://drive.google.com/drive/folders/1fseuXgCCgnXJED88Z6VcamM-3e6JKuP8)
+
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdeshamne" alt="aakashdeshamne" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
