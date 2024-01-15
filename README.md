@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://steamcommunity.com/economy/profilebackground/items/383690/ba42e43828c826da1099caff358423b555f47dbc.jpg" alt="Banner Image" style="width: 100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Aakash Deshmane</h1>
 <h3 align="center">A passionate Fullstack Developer with Experience in Cloud And Devops!</h3>
 
