@@ -47,10 +47,10 @@
 <h3 align="left">Support:</h3>
 
 <p>
-  <a href="https://www.buymeacoffee.com/Aakash" style="margin-right: 20px;">
+  <a href="https://www.buymeacoffee.com/Aakash" style="margin-right: 10px;">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="300" alt="Aakash" />
   </a>
-  <a href="https://ko-fi.com/Aakash" style="margin-left: 20px;">
+  <a href="https://ko-fi.com/Aakash" style="margin-left: 10px;">
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="70" width="300" alt="Aakash" />
   </a>
 </p>
