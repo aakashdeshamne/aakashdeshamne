@@ -38,7 +38,7 @@
   <a href="https://www.hackerrank.com/@deshmaneakash100" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@deshmaneakash100" height="40" width="50" />
   </a>
-  <a href="https://www.leetcode.com/deshmaneakash100" target="blank">
+  <a href="https://leetcode.com/deshmane100/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deshmaneakash100" height="40" width="50" />
   </a>
   <a href="https://discord.gg/https://discord.gg/ZjsB932z" target="blank">
