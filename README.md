@@ -20,9 +20,6 @@
 - 📫 How to reach me **deshmaneakash100@gmailcom**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1fseuXgCCgnXJED88Z6VcamM-3e6JKuP8](https://drive.google.com/drive/folders/1fseuXgCCgnXJED88Z6VcamM-3e6JKuP8)
-
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdeshamne" alt="aakashdeshamne" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
