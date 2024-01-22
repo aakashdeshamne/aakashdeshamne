@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-image.png" alt="Banner Image" style="max-height: 300px; width: 100%;" />
+  <img src="github-header-image (3).png" alt="Banner Image" style="max-height: 300px; width: 100%;" />
 </p>
 
 
