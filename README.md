@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://steamcommunity.com/economy/profilebackground/items/383690/ba42e43828c826da1099caff358423b555f47dbc.jpg" alt="Banner Image" style="max-height: 300px; width: 600px;" />
+  <img src="github-header-image.png" alt="Banner Image" style="max-height: 300px; width: 600px;" />
 </p>
 
 
