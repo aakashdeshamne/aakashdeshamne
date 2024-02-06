@@ -1,7 +1,7 @@
 <p align="center">
   <img src="github-header-image (3).png" alt="Banner Image" style="max-height: 300px; width: 100%;" />
 </p>
-<h1 align="center">Hey! there👋,I'm Aakash!</h1>
+<h1 align="center">Hey there!👋,I'm Aakash!</h1>
 <h3 align="center">A passionate Fullstack Developer with Experience in Cloud And Devops!</h3>
 
 - 🔭 I’m currently working on [Resume Builder](https://github.com/aakashdeshamne/Resume-Builder-Backend.git)
