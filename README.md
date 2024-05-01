@@ -46,9 +46,16 @@
 
 <br>
 
-<p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakashdeshamne&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakashdeshamne&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/aakashdeshamne?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aakashdeshamne&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/aakashdeshamne?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aakashdeshamne&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/aakashdeshamne?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=aakashdeshamne&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+<a href="https://github.com/aakashdeshamne?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=aakashdeshamne&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+
+</p>
+
+
+<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
+
 
 
 
