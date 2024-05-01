@@ -52,9 +52,25 @@
 <a href="https://github.com/aakashdeshamne?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=aakashdeshamne&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
 
 </p>
+<p align="center">
+    <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashdeshamne&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+    <a href="https://wakatime.com/@Voko#gh-light-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashdeshamne&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
 
 
-<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakashdeshamne&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakashdeshamne&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashdeshamne&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Ashubham5027+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashdeshamne&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+</p>
+
+
 
 
 
